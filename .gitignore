@@ -1,0 +1,20 @@
+# Arquivos gerados automaticamente
+node_modules/
+
+# Arquivos de dependências ou compilações
+package-lock.json
+npm-debug.log
+
+# Arquivos de build ou output
+build/
+dist/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de log e debug
+logs/
+*.log
+
+# Arquivos temporários
+*.tmp
